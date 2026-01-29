@@ -1,0 +1,2 @@
+Goal: I want to learn about MCP (Model Context Protocol). Give me some usecases where to use this, with a detailed step by step learning plan to follow for 30 days.
+Focus: On detailed steps, what to learn first, any prerequisites needed.
